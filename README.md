@@ -7,3 +7,5 @@ The workshop practical material iscreated by [Ajay Hemanth](https://www.linkedin
 The practical material uses the Keras deep learning framework and to use it with R it is recommended to install Anaconda. A video detailing installation is [here](https://www.youtube.com/watch?v=XgEGyfSJFYw). Following the instructions in this video may take some time, hence it is recommended that participants do this prior to the start of the workshop. 
 
 Note that the installation instructions are focused on Windows machines. Mac and Linux users may need to make minor adaptations. Participants should not hesitate to contact the course team prior to the workshop if installation help is needed.
+
+Here are the [workshop slides](https://yoninazarathy.com/talks/ML225MinutesWithR.pdf).
